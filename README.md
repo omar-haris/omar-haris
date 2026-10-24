@@ -2,7 +2,7 @@
 
 **Head of AI Engineering | Agentic AI Architect | CTO**
 
-I'm a software engineer and technical leader with 10+ years of experience building and scaling software. I've led engineering teams and delivered systems serving millions of users, from architecture and development to deployment and operations.
+I'm a software engineer and technical leader with 12+ years of experience building and scaling software. I've led engineering teams and delivered systems serving millions of users, from architecture and development to deployment and operations.
 
 My current focus is agentic AI, LLM applications, and workflow automation, supported by a strong background in software architecture and distributed systems.
 
